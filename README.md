@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**sohailaesmat/sohailaesmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="250" align="right" src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127">
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Welcome to Sohaila Esmat profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🏢 I'm a Embedded Software Engineer
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+
+
+### Connect with Me :
+
+<a href="https://www.linkedin.com/in/sohailaesmat/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+### 🛠 &nbsp;Tech Stack
+![Embedded Systems](https://img.shields.io/badge/-Embedded Systems-05122A?style=flat&logo=Embedded Systems)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
+![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=Algorithms)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
