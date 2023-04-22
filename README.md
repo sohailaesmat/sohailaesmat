@@ -8,7 +8,7 @@
 
 
 - 🏢 I'm a Embedded Software Engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Computer Engineer student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 ### Connect with Me :
