@@ -1,42 +1,6 @@
 
 <img width="250" align="right" src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127">
 
-
-    <html>
-  <head>
-    <title>Typewriter effect</title>
-  </head>
-  <style>
-    body{
-      background: navajowhite;
-      background-size: cover;
-      font-family: 'Trebuchet MS', sans-serif; 
-    }
-    .container{
-      display: inline-block;
-    }
-    .typed-out{
-      overflow: hidden;
-      border-right: .15em solid orange;
-      white-space: nowrap;
-      animation: 
-      typing 1s steps(20, end) forwards;
-      font-size: 1.6rem;
-      width: 0;
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-  </style>
-<body>
-<h1>I'm Sohaila Esmat, I'm a</h1>
-<div class="container">
-  <div class="typed-out">Embedded Software Engineer</div>
-</div>
-</body>
-</html>
-
 - 🏢 I'm a Embedded Software Engineer
 - 👨‍💻 As a Computer Engineer student, I'm constantly learning and exploring new technologies to improve my skills.
 
