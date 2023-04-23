@@ -2,7 +2,10 @@
 <img width="250" align="right" src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127">
 
 
+    <html>
+  <head>
     <title>Typewriter effect</title>
+  </head>
   <style>
     body{
       background: navajowhite;
@@ -27,16 +30,12 @@
     }
   </style>
 <body>
-<h1>I'm sohaila, I'm a</h1>
+<h1>I'm Sohaila Esmat, I'm a</h1>
 <div class="container">
   <div class="typed-out">Embedded Software Engineer</div>
 </div>
-
-<h3 align="center">
-  Welcome to Sohaila Esmat profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
+</body>
+</html>
 
 - 🏢 I'm a Embedded Software Engineer
 - 👨‍💻 As a Computer Engineer student, I'm constantly learning and exploring new technologies to improve my skills.
