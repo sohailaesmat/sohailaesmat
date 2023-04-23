@@ -1,5 +1,10 @@
 
 <img width="250" align="right" src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127">
+<h3 align="center">
+  Welcome to Sohaila Esmat's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 
 - 🏢 I'm a Embedded Software Engineer
 - 👨‍💻 As a Computer Engineer student, I'm constantly learning and exploring new technologies to improve my skills.
