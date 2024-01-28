@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://i.pinimg.com/564x/a6/8b/34/a68b3490ddfe2393b2e9b97caff4fe3e.jpg">
 <h3 align="center">
   Welcome to Sohaila Esmat's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://drive.google.com/file/d/1TpURMXMFR4oFnsHlJ-OS8apFsczbrRl6/view?usp=sharing" width="28">
 </h3>
 
 
