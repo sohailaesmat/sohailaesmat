@@ -1,7 +1,7 @@
 
-<img width="400" align="right" scr ="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67eab190112837.65b622cadcbe3.png">
-<img data-ut="lightbox-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/d67eab190112837.65b622cadcbe3.png" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d67eab190112837.65b622cadcbe3.png 600w,https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67eab190112837.65b622cadcbe3.png 1920w,https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67eab190112837.65b622cadcbe3.png 1200w,https://mir-s3-cdn-cf.behance.net/project_modules/1400/d67eab190112837.65b622cadcbe3.png 1400w,https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d67eab190112837.65b622cadcbe3.png 1400w,https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/d67eab190112837.65b622cadcbe3.png 2083w," sizes="(max-width: 2083px) 100vw, 2083px">
-<h3 align="center">
+<img width="200" align="right" scr ="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67eab190112837.65b622cadcbe3.png">
+<img data-ut="lightbox-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/d67eab190112837.65b622cadcbe3.png" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d67eab190112837.65b622cadcbe3.png 600w,https://mir-s3-cdn-cf.behance.net/project_modules/fs/d67eab190112837.65b622cadcbe3.png 1920w,https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67eab190112837.65b622cadcbe3.png 1200w,https://mir-s3-cdn-cf.behance.net/project_modules/1400/d67eab190112837.65b622cadcbe3.png 1400w,https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d67eab190112837.65b622cadcbe3.png 1400w,https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/d67eab190112837.65b622cadcbe3.png 2083w," sizes="(max-width: "200">
+<h3 align="right">
   Welcome to Sohaila Esmat's profile!
 </h3>
 
