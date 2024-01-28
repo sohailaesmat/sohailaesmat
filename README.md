@@ -1,5 +1,5 @@
 
-<img width="250" align="right" ![Uploading cartoon2.png…]()
+<img width="250" align="right" src = "file:///D:/Work/Sohaila/LinkedIn/cartoon2.png"
 <h3 align="center">
   Welcome to Sohaila Esmat's profile!
 </h3>
